@@ -28,7 +28,7 @@
  }
 
 
-.box{width:1248px;margin:0 auto;}
+.box{width:1104px;margin:0 auto;}
 
 .content{float:left;z-index: 10;position: relative; width: 8rem; height: 4rem;  margin: .6rem; background:#c04851;border-radius: 6px;-webkit-border-radius: 6px;}
 .mask_img_bg{text-align:center;font:40px/144px "楷体";position: absolute; left: 0.2rem; top: 0.2rem; bottom: 0.2rem; right: 0.2rem; background:#fff;border-radius: 6px;-webkit-border-radius: 6px;}
